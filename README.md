@@ -193,9 +193,8 @@ copy(Telegram.WebApp.initData)
 ```javascript
 copy(JSON.parse(sessionStorage.__telegram__initParams).tgWebAppData)
 ```
-```
+
 JANGAN LUPA BERI STAR 
 
-```
 
 # Terima Kasih 
