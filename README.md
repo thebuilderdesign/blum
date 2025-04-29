@@ -171,7 +171,7 @@ Tolong diperhatikan dengan saksama apakah proxy yang anda gunakan itu harus meng
    pip install -r requirements.txt
    ```
 
-5. Edit / ubah file `data.txt`, masukkan data query ke dalam file `data.txt`. Anda bisa mendapatkan query anda dengan cara [Cara Mendapatkan Query](#cara-mendapatkan-query). Satu baris untuk 1 akun, jika anda ingin menambah akun ke-2 maka isi di baris yang baru.
+5. Edit / ubah file `data.txt`, masukkan data query ke dalam file `data.txt`.Satu baris untuk 1 akun, jika anda ingin menambah akun ke-2 maka isi di baris yang baru.
 
 6. Jalankan program / scriptnya.
    ```
